@@ -1,5 +1,0 @@
-Rencana database
-
-- data-siswa
-- data-guru
-- data-matapelajaran
