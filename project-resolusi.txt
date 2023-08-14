@@ -1,2 +1,4 @@
 Project Resolusi
 - Konsisten membuat Project untuk Skripsi
+- Membuat Web untuk Skripsi
+- Kolaborasi dengan teman
